@@ -1,0 +1,4 @@
+self: play -> clusterJob 0.1
+
+require:
+    - play
